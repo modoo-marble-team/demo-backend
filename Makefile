@@ -75,4 +75,4 @@ sync:                              # fetch + checkout develop + pull
 	git checkout develop
 	git pull origin develop
 
-check: format test                         # 전체 품질 검사
+check: format test                         # 전체 품질 검사 
